@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a hidden folder called .git that contains all the files that are going to get stored by commits etc for your project. You need it for this reason, and the reason its hidden is because it would clutter up the user experience if these files were not
