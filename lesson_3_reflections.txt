@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+You want to use remote repository all the time. If you kept all your files local you would have to create backups all the time.
