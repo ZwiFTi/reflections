@@ -1,3 +1,29 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates a hidden folder called .git that contains all the files that are going to get stored by commits etc for your project. You need it for this reason, and the reason its hidden is because it would clutter up the user experience if these files were not
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+its a limbo between the two, and you can put files in there so you dont have to remember them later when you add the other files aswell
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can add and remove files on the staging area. and pick the only one you want to commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+it can make new code not clutter up old code. So the old/master code is organized neatly and then you experiment "outside" of that code.
+
+How do the diagrams help you visualize the branch structure?
+
+It makes it fairly easy to understand! :)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+they get interlooped into one single branch, which is usually the master branch. We represent it in the diagram that way so that its easy to keep track
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+With manual you get logical changes, and with automatic you are making it so that you do not forget to do it
+
+lol
