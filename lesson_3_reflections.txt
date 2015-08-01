@@ -13,3 +13,6 @@ clone, to clone on your local computer, or from github to your local computer. F
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can edit everything offline. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you are not sure if the code is going to work.
